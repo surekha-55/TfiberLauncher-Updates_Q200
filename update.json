@@ -1,6 +1,6 @@
 {
-            "versionCode": 1,
-            "versionName": "1.1.0",
-            "apkUrl": "https://github.com/surekha-55/TfiberLauncher-Updates_Q200/releases/download/v1.1.0/tfiber-launcher.apk",
-            "releaseNotes": "Bug fixes and performance improvements."
-        }
+  "apkUrl": "https://mware.ulka.tv/1/files/tfiber/tfiber_launcher_2.apk",
+  "versionCode": 2,
+  "versionName": "1.2.0",
+  "releaseNotes": "Improved Live TV App and Added youtube"
+}
