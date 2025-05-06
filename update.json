@@ -1,6 +1,6 @@
 {
-  "apkUrl": "http://202.62.66.115:8080/1/files/tfiber/tfiber_launcher_q200_1.2.0.apk",
-  "versionCode": ,
-  "versionName": "1.1.0",
+  "apkUrl": "https://mware.ulka.tv/1/files/tfiber/tfiber_launcher_q200_1.2.0.apk",
+  "versionCode": 2,
+  "versionName": "1.2.0",
   "releaseNotes": "Improved Live TV App and Added youtube"
 }
